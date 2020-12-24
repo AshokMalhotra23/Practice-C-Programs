@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608227337 source:c:\pusha stick'\main.c
+	<stdio.h>
+	<stdlib.h>
+
